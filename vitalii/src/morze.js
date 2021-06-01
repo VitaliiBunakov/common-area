@@ -28,14 +28,14 @@ function decodeMorzeToChar(morzeStr) {
     //
 }
 
-function mormalizeToMorzeT(morzeT) {
+function normalizeToMorzeT(morzeT) {
 
 }
-function mormalizeToMorzeE(morzeE) {
+function normalizeToMorzeE(morzeE) {
 
 }
 
-function mormalizeToMorzeR(morzeR) {
+function normalizeToMorzeR(morzeR) {
 
 }
 
